@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "pergunta": "Qual é a responsabilidade das equipes de F1 em relação a atos de terceiros que agem em seu nome?",
+    "resposta_esperada": "As equipes são estritamente responsáveis por qualquer não conformidade com os Regulamentos da FIA F1 resultante de ações de terceiros agindo em seu nome, incluindo seus funcionários.",
+    "clausula_esperada": "A1.4.1",
+    "keyword": "responsabilidade, equipes, terceiros, estrita"
+  },
+  {
+    "id": 2,
+    "pergunta": "Qual é o limite máximo de competições permitido no campeonato de Fórmula 1?",
+    "resposta_esperada": "O número máximo de competições no campeonato é 24.",
+    "clausula_esperada": "A2.1.2",
+    "keyword": "máximo, competições, 24"
+  },
+  {
+    "id": 3,
+    "pergunta": "O que acontece se houver um empate no número de pontos entre dois pilotos ou equipes ao final do campeonato?",
+    "resposta_esperada": "O desempate é decidido pelo maior número de primeiros lugares, seguido pelo maior número de segundos lugares, e assim por diante.",
+    "clausula_esperada": "A2.1.4.c",
+    "keyword": "empate, pontos, desempate, classificação"
+  },
+  {
+    "id": 4,
+    "pergunta": "O que define um documento 'FIA F1 Document' como vinculativo (binding)?",
+    "resposta_esperada": "Documentos vinculativos são aqueles que estabelecem especificações técnicas, informações obrigatórias para conformidade ou ações urgentes de segurança definidas pela FIA.",
+    "clausula_esperada": "A1.2.3.c",
+    "keyword": "documentos, vinculativo, FIA, conformidade"
+  },
+  {
+    "id": 5,
+    "pergunta": "A ignorância sobre as regras da FIA pode ser usada como defesa em caso de violação?",
+    "resposta_esperada": "Não, a ignorância das regras da FIA não constitui uma defesa contra qualquer violação.",
+    "clausula_esperada": "A1.4.4",
+    "keyword": "ignorância, defesa, violação, regras"
+  },
+  {
+    "id": 6,
+    "pergunta": "O que é necessário para que pontos sejam concedidos em uma corrida?",
+    "resposta_esperada": "Nenhum ponto é concedido a menos que um mínimo de duas voltas completas e consecutivas tenham sido feitas pelo líder sem intervenção de Safety Car ou Virtual Safety Car.",
+    "clausula_esperada": "A2.2.1",
+    "keyword": "pontos, corrida, duas voltas, safety car"
+  },
+  {
+    "id": 7,
+    "pergunta": "Qual é a propriedade do Campeonato de Fórmula 1?",
+    "resposta_esperada": "O Campeonato é propriedade exclusiva da FIA.",
+    "clausula_esperada": "A1.1.2",
+    "keyword": "propriedade, FIA, campeonato"
+  },
+  {
+    "id": 8,
+    "pergunta": "Quem são as 'Covered Persons' (Pessoas Abrangidas) pelos regulamentos da FIA?",
+    "resposta_esperada": "Incluem equipes de F1 e seus funcionários, fabricantes de Power Units, pilotos, ASNs, organizadores, promotores, fornecedores únicos, operadores de circuito, entre outros.",
+    "clausula_esperada": "A1.3.2",
+    "keyword": "pessoas abrangidas, regulamentos, equipes, pilotos"
+  },
+  {
+    "id": 9,
+    "pergunta": "Qual o prazo para o pagamento da taxa de inscrição das equipes de F1?",
+    "resposta_esperada": "A taxa de inscrição deve ser paga à FIA até o dia 15 de dezembro do ano anterior ao ano a que a aplicação se refere.",
+    "clausula_esperada": "Apêndice A4",
+    "keyword": "inscrição, taxa, pagamento, 15 de dezembro"
+  },
+  {
+    "id": 10,
+    "pergunta": "Em caso de conflito entre os Regulamentos da FIA e as leis locais (Applicable Laws), qual prevalece?",
+    "resposta_esperada": "As leis locais (Applicable Laws) têm precedência sobre os regulamentos da FIA em caso de conflito.",
+    "clausula_esperada": "A1.2.4",
+    "keyword": "conflito, leis locais, precedência, FIA"
+  },
+  {
+    "id": 11,
+    "pergunta": "Como é determinado o formato do Campeonato Mundial de Fórmula 1?",
+    "resposta_esperada": "O Campeonato é composto por Competições que contam para o Campeonato de Pilotos e Construtores, sendo o formato definido pelos regulamentos esportivos da FIA.",
+    "clausula_esperada": "A2.1",
+    "keyword": "formato, campeonato, FIA, competições"
+  },
+  {
+    "id": 12,
+    "pergunta": "Qual é a função das reuniões oficiais (Official Meetings) definidas no artigo B1.5?",
+    "resposta_esperada": "As reuniões oficiais são obrigatórias para os representantes das equipes e destinam-se a discutir questões operacionais, de segurança e regulamentares da Competição.",
+    "clausula_esperada": "B1.5",
+    "keyword": "reuniões, oficiais, equipes, obrigatórias"
+  },
+  {
+    "id": 13,
+    "pergunta": "O que acontece com a réplica do Troféu do Campeonato de Pilotos após a premiação?",
+    "resposta_esperada": "O Campeão Mundial de Pilotos recebe uma réplica do Troféu do Campeonato de Pilotos, a qual pode manter definitivamente.",
+    "clausula_esperada": "A6",
+    "keyword": "troféu, pilotos, réplica, posse"
+  },
+  {
+    "id": 14,
+    "pergunta": "Quais são as condições básicas para a substituição de um piloto durante um evento?",
+    "resposta_esperada": "A substituição de um piloto deve ser aprovada pelos Comissários Desportivos (Stewards) e o piloto substituto deve cumprir todos os requisitos de superlicença.",
+    "clausula_esperada": "B1.8",
+    "keyword": "substituição, piloto, comissários, superlicença"
+  },
+  {
+    "id": 15,
+    "pergunta": "Existem restrições específicas para a pintura (livery) dos carros de Fórmula 1?",
+    "resposta_esperada": "Sim, as equipes devem garantir que a identidade visual dos carros seja consistente e facilmente distinguível entre os dois carros da equipe durante toda a temporada.",
+    "clausula_esperada": "A2.3",
+    "keyword": "pintura, livery, identidade, carros"
+  },
+  {
+    "id": 16,
+    "pergunta": "O que estabelece o artigo B1.6 sobre Segurança Geral nas competições?",
+    "resposta_esperada": "O artigo B1.6 impõe que todas as equipes devem cumprir rigorosamente as normas de segurança da FIA, incluindo o uso de equipamentos de proteção individual nas áreas de trabalho.",
+    "clausula_esperada": "B1.6",
+    "keyword": "segurança, geral, FIA, proteção"
+  },
+  {
+    "id": 17,
+    "pergunta": "Quais são os critérios para o adiamento ou cancelamento de uma Competição?",
+    "resposta_esperada": "Uma Competição pode ser adiada ou cancelada pela FIA por motivos de força maior, preocupações com a segurança ou incapacidade operacional do circuito.",
+    "clausula_esperada": "A2.5",
+    "keyword": "adiamento, cancelamento, competição, FIA"
+  },
+  {
+    "id": 18,
+    "pergunta": "Qual é a responsabilidade dos Delegados da FIA (FIA Delegates) conforme o B1.2?",
+    "resposta_esperada": "Os Delegados da FIA são responsáveis por supervisionar a aplicação correta dos regulamentos esportivos, técnicos e financeiros em todas as atividades do evento.",
+    "clausula_esperada": "B1.2",
+    "keyword": "delegados, FIA, supervisão, regulamentos"
+  },
+  {
+    "id": 19,
+    "pergunta": "Como são calculados os pontos para uma corrida que é interrompida antes da distância total?",
+    "resposta_esperada": "Os pontos são atribuídos com base na distância percorrida e na classificação no momento da suspensão, conforme o escalonamento definido no sistema de pontos.",
+    "clausula_esperada": "A2.2",
+    "keyword": "pontos, corrida, interrupção, distância"
+  },
+  {
+    "id": 20,
+    "pergunta": "Quem compõe o grupo de Oficiais (Officials) de uma Competição segundo o artigo B1.3?",
+    "resposta_esperada": "O grupo de Oficiais inclui o Diretor de Corrida, os Comissários Desportivos (Stewards), o Delegado Técnico, o Delegado de Segurança e outros membros designados pela FIA.",
+    "clausula_esperada": "B1.3",
+    "keyword": "oficiais, diretores, comissários, FIA"
+  },
+  {
+    "id": 21,
+    "pergunta": "O que a FIA pode determinar caso um design ou dispositivo seja considerado perigoso?",
+    "resposta_esperada": "A FIA pode, a qualquer momento, ordenar que o carro ou componente seja retirado de circulação ou modificado para garantir a segurança.",
+    "clausula_esperada": "C1.4",
+    "keyword": "perigoso, design, segurança, modificação"
+  },
+  {
+    "id": 22,
+    "pergunta": "Quem é o responsável por garantir que o carro cumpra os regulamentos técnicos em todos os momentos?",
+    "resposta_esperada": "O Competidor é o único responsável por garantir que o carro cumpra os regulamentos técnicos em todos os momentos durante uma Competição.",
+    "clausula_esperada": "C1.5",
+    "keyword": "competidor, conformidade, responsável, regulamentos"
+  },
+  {
+    "id": 23,
+    "pergunta": "Quantas unidades um fabricante deve ter produzido nos últimos 12 meses para ser considerado um 'Automotive Manufacturer'?",
+    "resposta_esperada": "Um fabricante deve ter produzido pelo menos 3.000 unidades de um modelo de automóvel nos últimos 12 meses.",
+    "clausula_esperada": "6.1",
+    "keyword": "Automotive Manufacturer, 3000 unidades, produção"
+  },
+  {
+    "id": 24,
+    "pergunta": "Qual é a consequência de fornecer informações falsas ou enganosas na 'Requested Documentation' por um fabricante de Power Unit?",
+    "resposta_esperada": "É considerada uma violação material dos Regulamentos Técnicos e será tratada pela FIA conforme o Artigo 4 do Apêndice.",
+    "clausula_esperada": "5.3",
+    "keyword": "informação falsa, violação material, PU Manufacturer, documentação"
+  },
+  {
+    "id": 25,
+    "pergunta": "Um fabricante de Power Unit pode recorrer de uma decisão da FIA relativa ao 'New PU Manufacturer status'?",
+    "resposta_esperada": "Não, os fabricantes de Power Unit não têm direito a recurso contra qualquer decisão da FIA relacionada com as disposições deste Apêndice.",
+    "clausula_esperada": "5.5",
+    "keyword": "recurso, PU Manufacturer, decisão, FIA"
+  },
+  {
+    "id": 26,
+    "pergunta": "O relatório da FIA sobre o 'New PU Manufacturer status' deve conter informações confidenciais?",
+    "resposta_esperada": "Não, o relatório explicará os motivos da decisão, mas manterá em sigilo qualquer informação confidencial.",
+    "clausula_esperada": "5.4",
+    "keyword": "relatório, confidencial, status, transparência"
+  },
+  {
+    "id": 27,
+    "pergunta": "É permitido introduzir novos sistemas ou tecnologias não abrangidos explicitamente pelos regulamentos técnicos?",
+    "resposta_esperada": "Não, qualquer sistema ou tecnologia nova deve ser submetido à aprovação prévia da FIA para demonstrar conformidade.",
+    "clausula_esperada": "C1.6",
+    "keyword": "sistemas, tecnologia, aprovação, FIA"
+  },
+  {
+    "id": 28,
+    "pergunta": "Qual é o dever fundamental de um Competidor e de um Fabricante de PU em relação à conformidade?",
+    "resposta_esperada": "Devem não apenas cumprir os regulamentos, mas também demonstrar ativamente a conformidade técnica conforme solicitado.",
+    "clausula_esperada": "C1.7",
+    "keyword": "dever, conformidade, demonstrar, competidor"
+  },
+  {
+    "id": 29,
+    "pergunta": "Quais são as 'Core Activities' (atividades principais) definidas para um Fabricante Automotivo?",
+    "resposta_esperada": "As atividades principais são o design, a produção e a venda de automóveis.",
+    "clausula_esperada": "6.2",
+    "keyword": "Core Activities, design, produção, venda"
+  },
+  {
+    "id": 30,
+    "pergunta": "Como deve ser feita a interpretação dos Regulamentos Técnicos da FIA?",
+    "resposta_esperada": "A interpretação é feita exclusivamente pela FIA, cujas decisões são definitivas e vinculativas para todos os Competidores.",
+    "clausula_esperada": "C1.3",
+    "keyword": "interpretação, definitiva, vinculativa, FIA"
+  },
+  {
+    "id": 31,
+    "pergunta": "Qual é a duração padrão do período de encerramento (shutdown) para as equipes de F1?",
+    "resposta_esperada": "O período padrão é de 14 dias consecutivos durante os meses de julho ou agosto.",
+    "clausula_esperada": "F3.1",
+    "keyword": "shutdown, 14 dias, julho, agosto, equipes"
+  },
+  {
+    "id": 32,
+    "pergunta": "As regras de encerramento (shutdown) aplicam-se apenas às equipes de F1?",
+    "resposta_esperada": "Não, também se aplicam aos fabricantes de Unidades de Potência (PU), conforme o artigo F3.2.",
+    "clausula_esperada": "F3.2",
+    "keyword": "shutdown, fabricantes, PU, equipes"
+  },
+  {
+    "id": 33,
+    "pergunta": "O que é definido como um '2026 PU' nos regulamentos?",
+    "resposta_esperada": "É uma Unidade de Potência sob desenvolvimento, destinada a cumprir os Regulamentos Técnicos de 2026-2030, incluindo trabalhos preliminares.",
+    "clausula_esperada": "Definições",
+    "keyword": "2026 PU, desenvolvimento, 2026-2030"
+  },
+  {
+    "id": 34,
+    "pergunta": "O que diferencia um '2022 PU' de um '2026 PU' segundo as definições?",
+    "resposta_esperada": "O 2022 PU foi projetado para cumprir os Regulamentos Técnicos de 2022-2025, enquanto o 2026 PU é para o ciclo de 2026-2030.",
+    "clausula_esperada": "Definições",
+    "keyword": "2022 PU, 2026 PU, diferença, regulamentos"
+  },
+  {
+    "id": 35,
+    "pergunta": "Qual é o objetivo principal das Restrições de Testes Aerodinâmicos (ATR)?",
+    "resposta_esperada": "Regular e limitar a capacidade das equipes de desenvolver a aerodinâmica do seu carro de F1.",
+    "clausula_esperada": "F4.1",
+    "keyword": "ATR, aerodinâmica, restrições, desenvolvimento"
+  },
+  {
+    "id": 36,
+    "pergunta": "O que significa a sigla RWTT nos regulamentos operacionais?",
+    "resposta_esperada": "Significa 'Restricted Wind Tunnel Testing' (Testes Restritos em Túnel de Vento).",
+    "clausula_esperada": "F4.2",
+    "keyword": "RWTT, túnel de vento, restrito"
+  },
+  {
+    "id": 37,
+    "pergunta": "O que compreende o termo 'RCFD' nas simulações permitidas?",
+    "resposta_esperada": "Refere-se a 'Restricted CFD (Computational Fluid Dynamics) simulations'.",
+    "clausula_esperada": "F4.4",
+    "keyword": "RCFD, CFD, simulações, restrito"
+  },
+  {
+    "id": 38,
+    "pergunta": "Como são regidas as definições de 'Power Train Dynamometer'?",
+    "resposta_esperada": "São regidas conforme definido nos Regulamentos Operacionais em vigor durante o Período de Relatório aplicável.",
+    "clausula_esperada": "Definições",
+    "keyword": "Power Train Dynamometer, definições, regulamentos operacionais"
+  },
+  {
+    "id": 39,
+    "pergunta": "O que é o 'Power Unit Supply Perimeter'?",
+    "resposta_esperada": "É um termo técnico cujo significado está estabelecido nos Regulamentos Operacionais em vigor durante o período aplicável.",
+    "clausula_esperada": "Definições",
+    "keyword": "Power Unit Supply Perimeter, definições"
+  },
+  {
+    "id": 40,
+    "pergunta": "A governança dos períodos de encerramento dos fabricantes de PU é exclusiva da FIA?",
+    "resposta_esperada": "Não, é regida por um acordo específico (PU Manufacturers’ Governance Agreement) e pelo WMSC.",
+    "clausula_esperada": "F3.2 / Governance",
+    "keyword": "governança, PU Manufacturers, WMSC, shutdown"
+  },
+  {
+    "id": 41,
+    "pergunta": "Se a FIA solicitar o 'Constructors’ Trophy' para fins de exibição (A6.3), qual é o prazo mínimo de aviso para que a solicitação seja considerada 'razoável'?",
+    "resposta_esperada": "O regulamento estabelece que 14 dias de aviso prévio constituem sempre um aviso razoável.",
+    "clausula_esperada": "A6.3",
+    "keyword": "Constructors’ Trophy, aviso, razoável, A6.3"
+  },
+  {
+    "id": 42,
+    "pergunta": "Qual o critério fundamental para que um indivíduo falhe no 'Fit and Proper Persons Test' (A4.1)?",
+    "resposta_esperada": "Falhar em demonstrar integridade, conduta ética, ou estar envolvido em violações graves dos padrões regulamentares e esportivos da FIA.",
+    "clausula_esperada": "A4.1",
+    "keyword": "Fit and Proper, integridade, teste, A4.1"
+  },
+  {
+    "id": 43,
+    "pergunta": "Um PU Manufacturer pode compartilhar um 'Third Party Supplier' para componentes de motor com outro competidor sem incorrer em quebra de confidencialidade (C18.2)?",
+    "resposta_esperada": "Sim, desde que os termos sejam estritamente comerciais e a FIA receba garantia de que não há transferência indireta de propriedade intelectual ou dados técnicos restritos.",
+    "clausula_esperada": "C18.2",
+    "keyword": "Third Party, fornecedor, confidencialidade, C18.2"
+  },
+  {
+    "id": 44,
+    "pergunta": "Como o regulamento técnico C3.6 impõe limites sobre a altura da prancha (plank) em relação ao desgaste excessivo?",
+    "resposta_esperada": "A prancha é submetida a verificações de espessura após a sessão; desgaste que exceda os limites dimensionais permitidos resulta em não conformidade técnica.",
+    "clausula_esperada": "C3.6",
+    "keyword": "plank, prancha, desgaste, C3.6"
+  },
+  {
+    "id": 45,
+    "pergunta": "Existe diferença na aplicação das regras de Parc Fermé entre um 'Standard Format Competition' e um evento com Sprint (B3.4)?",
+    "resposta_esperada": "Sim, as janelas de tempo e as permissões de modificação no Parc Fermé são distintas conforme a natureza da sessão (Sprint vs Standard).",
+    "clausula_esperada": "B3.4",
+    "keyword": "Parc Fermé, Sprint, Standard Format, B3.4"
+  },
+  {
+    "id": 46,
+    "pergunta": "Em que cenário a telemetria é permitida para ajustes de performance do motor fora do pit lane (C8.5)?",
+    "resposta_esperada": "O uso de telemetria é restrito à monitoração de dados; o controle remoto ou ajustes de performance em tempo real pelo pit wall são proibidos.",
+    "clausula_esperada": "C8.5",
+    "keyword": "telemetria, controle, motor, C8.5"
+  },
+  {
+    "id": 47,
+    "pergunta": "É possível resolver uma disputa técnica entre competidores sem uma audiência formal dos Comissários (A7.1)?",
+    "resposta_esperada": "Sim, para infrações administrativas ou de menor complexidade, a FIA pode aplicar procedimentos de resolução acelerada conforme definido no Artigo A7.",
+    "clausula_esperada": "A7.1",
+    "keyword": "disputa, audiência, resolução, A7.1"
+  },
+  {
+    "id": 48,
+    "pergunta": "Durante o Safety Car (B5.13), qual é a ordem exata de procedimentos para carros que foram dobrados (lapped cars)?",
+    "resposta_esperada": "Os carros dobrados podem ultrapassar o Safety Car e o pelotão apenas após instrução explícita do Race Director via 'Lapped cars may now overtake'.",
+    "clausula_esperada": "B5.13",
+    "keyword": "Safety Car, lapped cars, procedimento, B5.13"
+  },
+  {
+    "id": 49,
+    "pergunta": "Quais as consequências técnicas se o 'FIA Marshalling System' falhar em um carro durante a qualificação (C8.11)?",
+    "resposta_esperada": "O carro é considerado inseguro para competir até que o sistema seja reparado e validado, podendo resultar em desclassificação da sessão.",
+    "clausula_esperada": "C8.11",
+    "keyword": "Marshalling System, qualificação, falha, C8.11"
+  },
+  {
+    "id": 50,
+    "pergunta": "Como se contabilizam as horas de dinamômetro (F5.2) se um PU Manufacturer usar um dinamômetro de terceiros não vinculado originalmente?",
+    "resposta_esperada": "A contagem de horas permanece vinculada à identidade do PU Manufacturer, independentemente do local físico, devendo ser reportada na declaração de conformidade.",
+    "clausula_esperada": "F5.2.1",
+    "keyword": "dinamômetro, F5.2, reporte, PU Manufacturer"
+  },
+  {
+    "id": 51,
+    "pergunta": "Em caso de 'Force Majeure' declarada, a FIA pode autorizar um número maior de PUs por temporada (C5.2)?",
+    "resposta_esperada": "Sim, a FIA tem discricionariedade para ajustar a alocação de unidades de potência se a escassez for provada como resultado direto da Force Majeure.",
+    "clausula_esperada": "C5.2",
+    "keyword": "Force Majeure, PU, alocação, C5.2"
+  },
+  {
+    "id": 52,
+    "pergunta": "O que constitui uma violação do 'F1 Team Factory Shutdown Period' (F3.1) em termos de atividade de design?",
+    "resposta_esperada": "Qualquer trabalho de design ou simulação aerodinâmica realizado por pessoal nas instalações da equipe durante o período de encerramento obrigatório.",
+    "clausula_esperada": "F3.1",
+    "keyword": "shutdown, design, fábrica, F3.1"
+  },
+  {
+    "id": 53,
+    "pergunta": "A 'FIA Ethics and Compliance Hotline' (A6.2) aceita denúncias anônimas sobre doping esportivo?",
+    "resposta_esperada": "Sim, a linha é aberta para reportar qualquer conduta que viole os princípios da FIA, incluindo doping e ética esportiva.",
+    "clausula_esperada": "A6.2",
+    "keyword": "ética, hotline, denúncia, A6.2"
+  },
+  {
+    "id": 54,
+    "pergunta": "Como são validados os tempos de volta (B4.3) que excedem os limites da pista em sessões de qualificação?",
+    "resposta_esperada": "O tempo é automaticamente deletado pelos comissários com base nos dados do sistema de cronometragem e sensores de limite de pista.",
+    "clausula_esperada": "B4.3",
+    "keyword": "limite de pista, tempo de volta, B4.3"
+  },
+  {
+    "id": 55,
+    "pergunta": "Um competidor pode instalar um 'software de diagnóstico' proprietário para monitorar a PU (C8.1)?",
+    "resposta_esperada": "Apenas se o software for pré-aprovado pela FIA e auditável a qualquer momento pela equipe técnica da federação.",
+    "clausula_esperada": "C8.1",
+    "keyword": "software, diagnóstico, PU, C8.1"
+  },
+  {
+    "id": 56,
+    "pergunta": "No 'Resumption Procedure' (B5.15), os carros podem ser modificados antes do reinício da corrida?",
+    "resposta_esperada": "Não, o Parc Fermé permanece em vigor; modificações são restritas apenas para reparos de segurança autorizados pelos comissários.",
+    "clausula_esperada": "B5.15",
+    "keyword": "Resumption, corrida, modificação, B5.15"
+  },
+  {
+    "id": 57,
+    "pergunta": "O que acontece se a 'combustão' ocorrer fora da câmara (C5.9) por falha no sistema de escapamento?",
+    "resposta_esperada": "É tratada como falha técnica; se resultar em ganho de performance ilegal, o carro estará em quebra de regulamento técnico.",
+    "clausula_esperada": "C5.9",
+    "keyword": "combustão, escapamento, quebra técnica, C5.9"
+  },
+  {
+    "id": 58,
+    "pergunta": "A definição de 'Force Majeure' no regulamento A2.5 abrange falhas logísticas comuns?",
+    "resposta_esperada": "Não, Force Majeure exige eventos imprevisíveis, externos e irresistíveis; falhas logísticas planejáveis geralmente não se qualificam.",
+    "clausula_esperada": "A2.5",
+    "keyword": "Force Majeure, logística, A2.5"
+  },
+  {
+    "id": 59,
+    "pergunta": "Qual é o requisito de visibilidade das 'Rear Lights' (B1.10) sob condição de neblina severa?",
+    "resposta_esperada": "Devem estar acesas de forma constante e visíveis a uma distância especificada pelas normas de segurança.",
+    "clausula_esperada": "B1.10",
+    "keyword": "Rear Lights, neblina, B1.10"
+  },
+  {
+    "id": 60,
+    "pergunta": "Quais são as restrições quantitativas de uso para o 'Driver Simulator' (F4.1)?",
+    "resposta_esperada": "Restrito a um número limitado de horas de ocupação e utilização de CPU, calculado proporcionalmente à posição do competidor no campeonato.",
+    "clausula_esperada": "F4.1",
+    "keyword": "simulador, horas, restrição, F4.1"
+  },
+  {
+    "id": 61,
+    "pergunta": "Se uma equipe realizar uma simulação CFD durante o 'Shutdown Period' (F3.1) alegando 'segurança urgente', sob qual critério a FIA decidirá se isso é uma violação ou uma exceção?",
+    "resposta_esperada": "A FIA decidirá com base na natureza da urgência, mas o regulamento F3.1 proíbe explicitamente trabalho de design durante o shutdown; a menos que a FIA autorize por escrito previamente, é uma quebra.",
+    "clausula_esperada": "F3.1",
+    "keyword": "shutdown, CFD, segurança, violação, F3.1"
+  },
+  {
+    "id": 62,
+    "pergunta": "Como se distingue uma 'Material Breach' de uma 'Non-Material Breach' no contexto da Seção A, dado que o regulamento não define explicitamente os limiares numéricos?",
+    "resposta_esperada": "O regulamento não define limiares numéricos fixos, tornando a distinção uma interpretação discricionária da FIA baseada no impacto da quebra na integridade esportiva ou técnica do campeonato.",
+    "clausula_esperada": "A1.4",
+    "keyword": "brecha, material, interpretação, A1.4"
+  },
+  {
+    "id": 63,
+    "pergunta": "Um 'Current Car' (B1) pode ser usado em um evento promocional sem a autorização da FIA se o competidor remover todos os componentes aerodinâmicos ativos?",
+    "resposta_esperada": "Não. O status de 'Current Car' não depende da especificação técnica ou componentes ativos; a proibição de uso sem autorização da FIA aplica-se ao chassi como um todo.",
+    "clausula_esperada": "B1",
+    "keyword": "Current Car, promocional, autorização, B1"
+  },
+  {
+    "id": 64,
+    "pergunta": "Se um 'Third Party Supplier' vazar informações técnicas por erro próprio, o PU Manufacturer ainda é responsável conforme a Seção A?",
+    "resposta_esperada": "Sim, o PU Manufacturer detém a responsabilidade final (A1.4) de garantir que seus contratados e fornecedores cumpram as restrições de confidencialidade; erros de terceiros não eximem o fabricante.",
+    "clausula_esperada": "A1.4",
+    "keyword": "responsabilidade, Third Party, vazamento, A1.4"
+  },
+  {
+    "id": 65,
+    "pergunta": "O regulamento técnico (C) permite o resfriamento de combustível abaixo de uma certa temperatura? Qual é a ambiguidade técnica aqui?",
+    "resposta_esperada": "A ambiguidade reside na interpretação da relação entre densidade, pressão e temperatura do combustível, já que a medição em tempo real é complexa e o regulamento de temperatura visa evitar ganhos de performance não permitidos.",
+    "clausula_esperada": "C5.9",
+    "keyword": "combustível, temperatura, resfriamento, C5.9"
+  },
+  {
+    "id": 66,
+    "pergunta": "Durante o Parc Fermé (B3), é permitido trocar um componente por um 'equivalente' se a peça original falhar por causas externas (ex: detritos na pista)?",
+    "resposta_esperada": "Apenas se autorizado pelo Delegado Técnico da FIA; sem autorização, qualquer troca de peça constitui quebra de Parc Fermé, independente da causa da falha.",
+    "clausula_esperada": "B3.1",
+    "keyword": "Parc Fermé, peça, falha, B3.1"
+  },
+  {
+    "id": 67,
+    "pergunta": "Como o regulamento F5.2 diferencia 'ICE Motoring' de 'Dinamômetro de Potência' para fins de contagem de horas?",
+    "resposta_esperada": "A diferença é baseada na medição de carga e ignição; o dinamômetro de potência mede saída real de energia, enquanto motoring refere-se a giros sem ignição ou queima de combustível.",
+    "clausula_esperada": "F5.2",
+    "keyword": "ICE Motoring, dinamômetro, horas, F5.2"
+  },
+  {
+    "id": 68,
+    "pergunta": "Até que ponto o 'Legal Group' de um fabricante pode discutir estratégias com a equipe de engenharia antes de ser configurado como 'colusão' proibida?",
+    "resposta_esperada": "A linha é tênue; qualquer discussão que envolva dados restritos, compartilhamento de propriedade intelectual ou estratégia de desenvolvimento fora dos canais permitidos é proibida.",
+    "clausula_esperada": "A8.2",
+    "keyword": "Legal Group, colusão, confidencialidade, A8.2"
+  },
+  {
+    "id": 69,
+    "pergunta": "O que significa 'consecutivamente' em B9.5.3 referente às exceções de Restricted Period? Pode-se usar uma exceção na última hora de sexta e outra na primeira de sábado?",
+    "resposta_esperada": "A interpretação de 'consecutivamente' nesse contexto proíbe o uso sem intervalo técnico significativo, visando impedir o prolongamento artificial do tempo de trabalho além do limite do dia operacional.",
+    "clausula_esperada": "B9.5.3",
+    "keyword": "Restricted Period, consecutivamente, exceção, B9.5.3"
+  },
+  {
+    "id": 70,
+    "pergunta": "Se um piloto ignora um sinal de 'pit entry closed' (B1.7) para evitar um acidente maior, ele será penalizado?",
+    "resposta_esperada": "O regulamento impõe a segurança acima de tudo; no entanto, a infração técnica ainda ocorreu. A penalidade dependerá da análise dos comissários sobre a necessidade da manobra.",
+    "clausula_esperada": "B1.7",
+    "keyword": "pit entry, segurança, penalidade, B1.7"
+  },
+  {
+    "id": 71,
+    "pergunta": "Existe previsão no regulamento A7 para contestar um 'Technical Directive' da FIA que não foi votado pela Comissão de F1?",
+    "resposta_esperada": "As TDs são interpretações regulamentares da FIA. A contestação segue o processo de apelação esportiva, mas o escopo de contestação de uma TD é limitado comparado a um regulamento aprovado pelo WMSC.",
+    "clausula_esperada": "A7.3",
+    "keyword": "Technical Directive, contestação, A7.3"
+  },
+  {
+    "id": 72,
+    "pergunta": "Se um material está em conformidade com C19, mas causa uma falha catastrófica de segurança, quem é o culpado conforme os regulamentos?",
+    "resposta_esperada": "A conformidade técnica (C19) não exime o Competidor da responsabilidade por 'Dangerous Construction' (C1.4); a FIA pode proibir qualquer design, independente de conformidade estrita com materiais.",
+    "clausula_esperada": "C1.4",
+    "keyword": "material, segurança, culpado, C1.4"
+  },
+  {
+    "id": 73,
+    "pergunta": "O trabalho remoto durante o 'Shutdown Period' (F3.1) é permitido se o funcionário usar hardware pessoal não conectado à rede da equipe?",
+    "resposta_esperada": "Não. O espírito da regra F3.1 é a paralisação completa de atividades de design e desenvolvimento. Hardware pessoal não altera a natureza da atividade proibida.",
+    "clausula_esperada": "F3.1",
+    "keyword": "shutdown, remoto, proibição, F3.1"
+  },
+  {
+    "id": 74,
+    "pergunta": "Qual é a diferença jurídica entre 'Competitor' e 'F1 Team' quando ambos são citados em uma questão de responsabilidade (A1.4)?",
+    "resposta_esperada": "Na prática regulamentar, são usados frequentemente como sinônimos (a entidade que compete), mas 'Competitor' é a entidade licenciada pela FIA para participar do campeonato.",
+    "clausula_esperada": "A1.4",
+    "keyword": "Competitor, F1 Team, responsabilidade, A1.4"
+  },
+  {
+    "id": 75,
+    "pergunta": "A alocação de PUs em caso de 'Force Majeure' (C5.2) exige que o fabricante prove incapacidade financeira ou apenas técnica?",
+    "resposta_esperada": "O regulamento fala em escassez ou impossibilidade de suprimento; a causa (financeira ou técnica) é secundária à evidência da incapacidade de fornecer as unidades conforme o cronograma.",
+    "clausula_esperada": "C5.2",
+    "keyword": "Force Majeure, PU, alocação, C5.2"
+  },
+  {
+    "id": 76,
+    "pergunta": "Como se define 'Reasonable Notice' para inspeção de dados (A6.3) em situações onde a FIA alega suspeita imediata de fraude?",
+    "resposta_esperada": "Em casos de suspeita de fraude, a 'razoabilidade' do aviso é reduzida a zero; a FIA possui poderes de inspeção imediata para preservar evidências (Demands).",
+    "clausula_esperada": "A6.3",
+    "keyword": "Reasonable Notice, fraude, inspeção, A6.3"
+  },
+  {
+    "id": 77,
+    "pergunta": "Pode um competidor mudar a geometria da suspensão após as verificações iniciais (scrutineering) se for para melhorar a segurança do piloto?",
+    "resposta_esperada": "Não sem a aprovação do Delegado Técnico da FIA. Alterar geometria sem aprovação após scrutineering é uma violação do status de Parc Fermé.",
+    "clausula_esperada": "B3.1",
+    "keyword": "suspensão, geometria, scrutineering, B3.1"
+  },
+  {
+    "id": 78,
+    "pergunta": "A FIA pode acessar dados de 'Black Box' (Data Recorders) de um carro de um terceiro competidor para comparar performance?",
+    "resposta_esperada": "A FIA pode acessar dados de todos os carros para segurança e conformidade, mas não pode compartilhar esses dados competitivos entre competidores.",
+    "clausula_esperada": "A5.7",
+    "keyword": "dados, Black Box, FIA, A5.7"
+  },
+  {
+    "id": 79,
+    "pergunta": "Qual a distinção entre 'Occupancy Hours' e 'Working Hours' para um PU Manufacturer em F5.2?",
+    "resposta_esperada": "Occupancy Hours é um conceito regulatório específico de uso do dinamômetro; Working Hours refere-se ao tempo de trabalho do pessoal, regido por outras normas laborais/fábrica.",
+    "clausula_esperada": "F5.2",
+    "keyword": "Occupancy Hours, Working Hours, F5.2"
+  },
+  {
+    "id": 80,
+    "pergunta": "O 'Fit and Proper' test (A4.1) é uma condição única ou contínua durante todo o campeonato?",
+    "resposta_esperada": "É uma obrigação contínua. Qualquer alteração no status de um indivíduo que afete sua idoneidade deve ser reportada imediatamente.",
+    "clausula_esperada": "A4.1",
+    "keyword": "Fit and Proper, contínua, A4.1"
+  },
+  {
+    "id": 81,
+    "pergunta": "Se um 'SSPUC' (C17) falha por design defeituoso, o PU Manufacturer pode aplicar uma correção provisória não aprovada?",
+    "resposta_esperada": "Absolutamente não. A modificação de SSPUC sem aprovação da FIA é uma violação técnica severa, independentemente da falha do design original.",
+    "clausula_esperada": "C17.3",
+    "keyword": "SSPUC, design, modificação, C17.3"
+  },
+  {
+    "id": 82,
+    "pergunta": "Na colisão 'incidental' (B5), quem define a ambiguidade de 'incidental' vs 'propositada'?",
+    "resposta_esperada": "Os Comissários de prova, com base na análise de telemetria, vídeo e histórico dos pilotos envolvidos; não há definição matemática no regulamento.",
+    "clausula_esperada": "B5",
+    "keyword": "colisão, incidental, comissários, B5"
+  },
+  {
+    "id": 83,
+    "pergunta": "O regulamento de vento (F4.2) exige que o ar esteja a pressão atmosférica. Isso proíbe o uso de túneis de vento em altitudes elevadas?",
+    "resposta_esperada": "Não necessariamente proíbe, mas exige compensações técnicas ou conformidade com os padrões de referência definidos para que a comparação de dados seja justa.",
+    "clausula_esperada": "F4.2",
+    "keyword": "túnel de vento, pressão, altitude, F4.2"
+  },
+  {
+    "id": 84,
+    "pergunta": "Em um reinício de corrida após bandeira vermelha (B5.15), os carros podem trocar pneus antes do alinhamento?",
+    "resposta_esperada": "Sim, a troca de pneus é permitida durante o período de suspensão da corrida (red flag), seguindo os procedimentos de Parc Fermé para reparos.",
+    "clausula_esperada": "B5.15",
+    "keyword": "red flag, pneus, reinício, B5.15"
+  },
+  {
+    "id": 85,
+    "pergunta": "Um 'Automotive Manufacturer' (C6.1) precisa ter marca própria vendida ao público para registrar um PU?",
+    "resposta_esperada": "Não. A definição de Automotive Manufacturer foca na capacidade produtiva e volume de unidades produzidas, não na marca comercial que chega ao consumidor final.",
+    "clausula_esperada": "C6.1",
+    "keyword": "Automotive Manufacturer, PU, registro, C6.1"
+  },
+  {
+    "id": 86,
+    "pergunta": "Se um contratado de TI de terceiros vender dados da equipe, a equipe é punida (A1.4) ou apenas o indivíduo?",
+    "resposta_esperada": "A equipe (Competidor) é o alvo da punição regulatória, pois detém a responsabilidade final pela segurança de seus sistemas e dados perante a FIA.",
+    "clausula_esperada": "A1.4",
+    "keyword": "IT, vazamento, responsabilidade, A1.4"
+  },
+  {
+    "id": 87,
+    "pergunta": "Existe diferença na alocação de pneus em um 'Sprint' vs 'Standard' que afete a penalidade de 'parc fermé'?",
+    "resposta_esperada": "Sim, as alocações e as janelas de Parc Fermé são distintas. Infringir o uso de pneus no Sprint pode levar a penalidades diferentes de uma infração similar no Standard.",
+    "clausula_esperada": "B3.4",
+    "keyword": "pneus, Sprint, Standard, B3.4"
+  },
+  {
+    "id": 88,
+    "pergunta": "Qual a diferença entre 'Reparo' e 'Modificação' de um componente de Power Unit durante a temporada?",
+    "resposta_esperada": "Reparo restaura a função original (permitido sob condições); modificação altera a especificação ou performance (geralmente proibido ou sujeito a restrições/homologação).",
+    "clausula_esperada": "C5",
+    "keyword": "reparo, modificação, Power Unit, C5"
+  },
+  {
+    "id": 89,
+    "pergunta": "A cláusula de 'Force Majeure' (A2.5) pode ser invocada para justificar o estouro do orçamento ou dos recursos (ATR/F)?",
+    "resposta_esperada": "Force Majeure é estritamente para eventos que impedem a realização da competição. Não é um salvo-conduto para infrações financeiras ou de desenvolvimento.",
+    "clausula_esperada": "A2.5",
+    "keyword": "Force Majeure, orçamento, recursos, A2.5"
+  },
+  {
+    "id": 90,
+    "pergunta": "Onde termina a 'inovação permitida' (C1.6) e começa a 'construção perigosa' (C1.4) em sistemas novos?",
+    "resposta_esperada": "É uma zona cinzenta. A inovação é permitida desde que não infrinja as regras técnicas explícitas e não seja declarada perigosa pela FIA em consulta com a Comissão Técnica.",
+    "clausula_esperada": "C1.6",
+    "keyword": "inovação, perigoso, zona cinzenta, C1.6"
+  },
+  {
+    "id": 91,
+    "pergunta": "Se um 'New System' (C1.6) for introduzido e cumprir estritamente todos os regulamentos técnicos, mas for posteriormente declarado 'Dangerous Construction' (C1.4), o competidor tem direito a uma fase de transição para remoção sem sofrer penalidade desportiva?",
+    "resposta_esperada": "Não. O regulamento C1.4 é uma norma de segurança imperativa; a FIA pode ordenar a remoção ou proibição imediata, e a conformidade técnica anterior não concede 'imunidade' ou período de transição automático.",
+    "clausula_esperada": "C1.4",
+    "keyword": "C1.4, C1.6, Dangerous Construction, penalidade"
+  },
+  {
+    "id": 92,
+    "pergunta": "Como o regulamento B8.2 (substituição de piloto) interage com a contagem de componentes de PU (C5) se o substituto for de uma equipe cliente diferente?",
+    "resposta_esperada": "O regulamento define a alocação de componentes por carro, não por piloto. A substituição do piloto não reseta a contagem; os novos componentes instalados contam contra o pool alocado ao carro/competidor.",
+    "clausula_esperada": "B8.2",
+    "keyword": "B8.2, C5, PU, piloto"
+  },
+  {
+    "id": 93,
+    "pergunta": "Durante o 'Shutdown Period' (F3.1), um engenheiro sênior pode responder a e-mails de clientes (não competidores) sobre questões de design de motor fora da F1?",
+    "resposta_esperada": "Se o design estiver vinculado à propriedade intelectual utilizada na F1, a atividade viola o espírito de paralisação total. É uma zona cinzenta que depende da natureza da consultoria.",
+    "clausula_esperada": "F3.1",
+    "keyword": "F3.1, shutdown, engenharia, consultoria"
+  },
+  {
+    "id": 94,
+    "pergunta": "O que define 'aviso razoável' (A6.3) para acesso de dados se o Chefe de Equipe estiver fisicamente impossibilitado de autorizar devido a uma situação de Força Maior (A2.5)?",
+    "resposta_esperada": "A Força Maior não suspende o poder de acesso da FIA. O regulamento de 'Demands' (A5.7) e acesso de dados prevalece; a FIA buscará acesso através de qualquer representante legal disponível ou técnico da equipe.",
+    "clausula_esperada": "A6.3, A2.5",
+    "keyword": "A6.3, A2.5, A5.7, acesso de dados"
+  },
+  {
+    "id": 95,
+    "pergunta": "Se uma peça é danificada durante um incidente de corrida (B5) considerado 'Força Maior' (A2.5), a equipe pode fabricar uma peça de especificação diferente sem ser punida pelo Parc Fermé (B3.1)?",
+    "resposta_esperada": "Não. A reparação em Parc Fermé só permite peças de especificação idêntica à original. A Força Maior não autoriza modificações técnicas não aprovadas pelo Delegado Técnico.",
+    "clausula_esperada": "B3.1, A2.5",
+    "keyword": "B3.1, A2.5, Parc Fermé, peças"
+  },
+  {
+    "id": 96,
+    "pergunta": "Qual a diferença regulatória de 'Terceiro' entre um fornecedor comercial (C18.2) e um parceiro tecnológico de P&D (F4.1)?",
+    "resposta_esperada": "O fornecedor comercial é regido por leis de não-colusão; o parceiro de P&D é restringido pelas limitações de ATR (Aerodynamic Testing Restrictions). A violação de um pode ser considerada violação do outro.",
+    "clausula_esperada": "C18.2, F4.1",
+    "keyword": "C18.2, F4.1, terceiros, P&D"
+  },
+  {
+    "id": 97,
+    "pergunta": "Um 'Sprint' (B3.4) pode ser cancelado parcialmente (apenas a corrida Sprint) por motivos de segurança, mantendo a corrida principal? Como fica a alocação de pneus?",
+    "resposta_esperada": "Sim. A alocação de pneus para a corrida principal não é alterada pelo cancelamento do Sprint, desde que as regras de Parc Fermé sejam mantidas conforme o cronograma revisado.",
+    "clausula_esperada": "B3.4",
+    "keyword": "B3.4, Sprint, pneus, cancelamento"
+  },
+  {
+    "id": 98,
+    "pergunta": "Pode um competidor justificar o uso de uma 'exceção' de Restricted Period (B9.5.3) alegando que o atraso foi causado por um 'Technical Directive' inesperado da FIA?",
+    "resposta_esperada": "Não. As exceções de Restricted Period são de uso discricionário e limitado do competidor; a FIA não é obrigada a conceder 'exceções extras' apenas porque uma TD forçou trabalho adicional.",
+    "clausula_esperada": "B9.5.3",
+    "keyword": "B9.5.3, Restricted Period, TD, exceção"
+  },
+  {
+    "id": 99,
+    "pergunta": "Se um 'Single Cylinder Dynamometer' for usado para validar uma melhoria de motor (F5.2), o tempo conta como uso de dinamômetro de potência total?",
+    "resposta_esperada": "Não, existem critérios de contagem de horas e potência distintos. A falha em reportar a distinção entre os dois tipos de dinamômetro pode ser considerada quebra técnica.",
+    "clausula_esperada": "F5.2",
+    "keyword": "F5.2, dinamômetro, contagem, reporte"
+  },
+  {
+    "id": 100,
+    "pergunta": "Pode uma equipe usar dados de um 'Previous Car' (Apêndice B1) para validar o design aerodinâmico do carro atual sem violar as regras de ATR (F4)?",
+    "resposta_esperada": "O uso de dados de modelos anteriores é restrito. Se os dados forem usados para treinar IAs ou ferramentas de simulação do carro atual, isso pode constituir violação de ATR, dependendo da fonte e do tipo de dados.",
+    "clausula_esperada": "F4, Apêndice B1",
+    "keyword": "ATR, F4, B1, Previous Car"
+  }
+]
