@@ -12,9 +12,7 @@ Score from 0 to 100, where 0 is completely incoherent or contradictory, and 100 
 If no response is generated, the score is 0.
 
 Output:
-Valid outpus are a integer from 0 to 100.
-"Score: X" where X is the score is not a valid output.
-only the integer score should be printed and nothing else.
+Only print the score and nothing else.
 """),
     ("user", """Retrieved Context:
 {context}
@@ -36,9 +34,7 @@ Score from 0 to 100, where 0 is completely irrelevant and 100 is perfectly relev
 If no response is generated, the score is 0.
 
 Output:
-Valid outpus are a integer from 0 to 100.
-"Score: X" where X is the score is not a valid output.
-only the integer score should be printed and nothing else.
+Only print the score and nothing else.
 """),
     ("user", """User Query:
 {question}
@@ -60,9 +56,7 @@ Score from 0 to 100, where 0 is either too verbose (contains excessive irrelevan
 If no response is generated, the score is 0.
 
 Output:
-Valid outpus are a integer from 0 to 100.
-"Score: X" where X is the score is not a valid output.
-only the integer score should be printed and nothing else.
+Only print the score and nothing else.
 """),
     ("user", """User Query:
 {question}
@@ -87,9 +81,7 @@ Score from 0 to 100, where 0 is completely incorrect or contains significant fac
 If no response is generated, the score is 0.
 
 Output:
-Valid outpus are a integer from 0 to 100.
-"Score: X" where X is the score is not a valid output.
-only the integer score should be printed and nothing else.
+Only print the score and nothing else.
 """),
     ("user", """Retrieved Context:
 {context}
@@ -114,9 +106,7 @@ Score from 0 to 100, where 0 means no essential information from the ground trut
 If no response is generated, the score is 0.
 
 Output:
-Valid outpus are a integer from 0 to 100.
-"Score: X" where X is the score is not a valid output.
-only the integer score should be printed and nothing else.
+Only print the score and nothing else.
 """),
     ("user", """Retrieved Context:
 {context}
